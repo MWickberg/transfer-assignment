@@ -3,3 +3,4 @@
 2. History Tracking: Git tracks and stores the complete history of changes, facilitating debugging, troubleshooting, and understanding the project's evolution.
 # Weaknesses
 1. Learning Curve: Git has a steep learning curve for users new to version control systems.
+2. Complex Conflict Resolution: Resolving conflicts in Git can be challenging and time-consuming when multiple developers make conflicting changes.
